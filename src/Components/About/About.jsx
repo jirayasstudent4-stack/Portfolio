@@ -19,28 +19,28 @@ const About = () => {
                 <p> My passion for frontend development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p>
             </div>
             <div className="about-skills">
-                <div className="about-skill"><p>HTML&CSS</p><hr style={{width:"50%"}}/></div>
-                <div className="about-skill"><p>REACT JS</p><hr style={{width:"70%"}}/></div>
-                <div className="about-skill"><p>JAVA SCRIPT</p><hr style={{width:"60%"}}/></div>
-                <div className="about-skill"><p>TAILWIND</p><hr style={{width:"70%"}}/></div>
-                <div className="about-skill"><p>PYTHON</p><hr style={{width:"50%"}}/></div>
-                <div className="about-skill"><p>ORACAL SQL</p><hr style={{width:"80%"}}/></div>
+                <div className="about-skill"><p>HTML&CSS</p><hr style={{width:"85%"}}/></div>
+                <div className="about-skill"><p>JAVA SCRIPT</p><hr style={{width:"70%"}}/></div>
+                <div className="about-skill"><p>REACT JS</p><hr style={{width:"60%"}}/></div>
+                <div className="about-skill"><p>REACT NATIVE</p><hr style={{width:"65%"}}/></div>
+                <div className="about-skill"><p>EXPRESS JS</p><hr style={{width:"60%"}}/></div>
+                <div className="about-skill"><p>MONGO DB</p><hr style={{width:"80%"}}/></div>
             </div>
         </div>
         </div>
         <div className="about-achievements">
             <div className="about-achievement">
-                <h1>+2</h1>
+                <h1>+1</h1>
                 <p>YEAR OF EXPERIENCE</p>
             </div>
             <hr/>
             <div className="about-achievement">
-                <h1>+10</h1>
+                <h1>+6</h1>
                 <p>PROJECT COMPLETED</p>
             </div>
             <hr/>
             <div className="about-achievement">
-                <h1>+7</h1>
+                <h1>+2</h1>
                 <p>HAPPY CLIENTS</p>
             </div>
         

@@ -27,10 +27,11 @@
 }
 .mywork-container img{
     box-sizing: border-box;
-     border-radius: 10px;
+    border-radius: 10px;
     width: 360px;
-    height: 240px;
+    height: 250px;
     cursor: pointer;
+    justify-content: center;
     transition: 0.3s;
 }
 .mywork-container img:hover{

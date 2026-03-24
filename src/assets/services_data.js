@@ -16,18 +16,18 @@ const Services_Data = [
     },
     {
         s_no:"04",
-        s_name:"E-commerce Website",
+        s_name:"Hostel Management System",
         s_desc:"A fully responsive online shopping website built with React.js, featuring product listings, cart management, filters, and a modern user-friendly UI."
     },
     {
         s_no:"05",
-        s_name:"Admin Dashboard",
+        s_name:"HR Dashboard",
         s_desc:"A modern admin dashboard built with React.js, featuring analytics charts, user management, responsive layouts, and a clean UI for monitoring business data."
     },
     {
         s_no:"06",
-        s_name:"Content writing",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"NCC Application",
+        s_desc:" NCC CADET COMMUNICATION & INFORMATION PORTAL is a mobile based platform designed to provide real-time updates and training resources to NCC cadets and administrators."
     },
 ]
  
